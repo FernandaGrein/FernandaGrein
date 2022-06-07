@@ -19,9 +19,9 @@ And I've learned about:
 
 🔷 And I'm looking forward to the BackEnd... 🔷
 
-[![FernandaGrein's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaGrein&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![FernandaGrein's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaGrein&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaGrein&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaGrein&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ______________________________________________________________________
 

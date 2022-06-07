@@ -20,7 +20,7 @@ And I've learned about:
 
 🔶 unit test
 
-And now i'm Learning ! <a href="url"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Freact-logo-vector.svg&imgrefurl=https%3A%2F%2Fbrandslogos.com%2Fr%2Freact-logo-vector%2F&tbnid=C54EqVI1X7EDsM&vet=12ahUKEwiI-4fo65v4AhW8pZUCHdUPDQwQMygIegUIARDLAQ..i&docid=4C7J4ztWcNpjQM&w=2500&h=2246&q=react%20logo&ved=2ahUKEwiI-4fo65v4AhW8pZUCHdUPDQwQMygIegUIARDLAQ" align="left" height="48" width="48" ></a>
+And now i'm Learning ! <a href="url"><img src="![image](https://user-images.githubusercontent.com/99997874/172443615-bc68327b-0426-4f4a-b01b-30f0b58dcf7b.png)" align="left" height="48" width="48" ></a>
 
 🔶 React
 

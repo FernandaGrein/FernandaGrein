@@ -19,7 +19,7 @@ And I've learned about:
 
 🔷 **And I'm looking forward to the BackEnd... 🔷
 
-[theme config file | FernandaGrein's GitHub](https://github.com/FernandaGrein/github-readme-stats/blob/master/themes/index.js)
+[![FernandaGrein's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaGrein)](https://github.com/anuraghazra/github-readme-stats)
 
 ______________________________________________________________________
 

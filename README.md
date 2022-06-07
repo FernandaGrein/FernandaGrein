@@ -24,24 +24,3 @@ And I've learned about:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaGrein&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-______________________________________________________________________
-
-Olá, 
-eu sou a Fernanda e aqui você pode ver um pouco sobre mim! 😊
-
-eu sou estudante de desenvolvimento web na Trybe 📚
-
-estou aprendendo Html, Css e JavaScript.
-
-E já aprendi sobre: 
-🔶 Html semântico 
-🔶 Hofs 
-🔶 Css 
-🔶 FlexBox 
-🔶 Bootstrap
-🔶 teste unitários, React 
-🔶 Testes em React -RTL
-🔶 Metodologias ágeis
-🔶 Redux
-
-🔷 E estou ansiosa pelo BackEnd... 🔷

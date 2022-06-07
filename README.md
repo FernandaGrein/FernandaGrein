@@ -18,8 +18,7 @@ And I've learned about:
 🔶 redux
 
 🔷 **And I'm looking forward to the BackEnd... 🔷
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandaGrein=github_dark" alt="FernandaGrein" align = "center"/></p>
+(https://github-readme-stats.vercel.app/api?username=dotama)](https://github.com/FernandaGrein/github-readme-stats)
 
 ______________________________________________________________________
 

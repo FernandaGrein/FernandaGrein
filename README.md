@@ -20,7 +20,7 @@ And I've learned about:
 
 🔶 unit test
 
-And now i'm Learning ![image](https://user-images.githubusercontent.com/99997874/172442714-43c6e465-f768-43ed-b3ab-4983dafc697e.png)
+And now i'm Learning ! <a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/99997874/172442714-43c6e465-f768-43ed-b3ab-4983dafc697e.png)" align="left" height="48" width="48" ></a>
 
 🔶 React
 

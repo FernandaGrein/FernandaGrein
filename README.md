@@ -18,7 +18,8 @@ And I've learned about:
 🔶 redux
 
 🔷 **And I'm looking forward to the BackEnd... 🔷
-(https://github-readme-stats.vercel.app/api?username=dotama)](https://github.com/FernandaGrein/github-readme-stats)
+
+(https://github.com/FernandaGrein/github-readme-stats)
 
 ______________________________________________________________________
 

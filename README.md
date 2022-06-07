@@ -9,23 +9,14 @@ I'm learning Html, Css and JavaScript.
 And I've learned about:
 
 🔶 semantic html
-
 🔶 hofs
-
 🔶 css
-
 🔶 FlexBox
-
 🔶 bootstrap
-
-🔶 unit test, 
-
+🔶 unit test
 🔶 React
-
 🔶 Tests in React-RTL
-
 🔶 agile methodologies
-
 🔶 redux
 
 🔷 And I'm looking forward to the BackEnd... 🔷

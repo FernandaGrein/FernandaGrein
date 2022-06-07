@@ -12,7 +12,9 @@ And I've learned about:
 🔶 css
 🔶 FlexBox
 🔶 bootstrap
-🔶 unit test, React
+🔶 unit test, 
+![image](https://user-images.githubusercontent.com/99997874/172441845-fd0e61a9-ca45-402c-9798-b195bd7ea783.png)
+React
 🔶 Tests in React-RTL
 🔶 agile methodologies
 🔶 redux

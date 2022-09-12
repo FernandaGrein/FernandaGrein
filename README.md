@@ -37,9 +37,11 @@ And now i'm Learning:
 
 🔶 Node.js
 
+🔶 Software architecture: Model, Service and Controller
+
 🔶 TypeScript
 
-🔶 object oriented programming
+🔶 Object oriented programming
 
 🔶 MongoDB
 

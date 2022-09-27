@@ -39,6 +39,10 @@ And now i'm Learning:
 
 🔶 Software architecture: Model, Service and Controller
 
+🔶 ORM - Sequelize
+
+🔶 JWT - json Web Token
+
 🔶 TypeScript
 
 🔶 Object oriented programming

@@ -18,7 +18,7 @@ And I've learned about:
 
 🔶 bootstrap
 
-🔶 unit test
+🔶 unit test em Jest
 
 🔶 React
 
@@ -36,6 +36,8 @@ And now i'm Learning:
 🔶 Sql
 
 🔶 Node.js
+
+🔶 Testes em Mocha, Chai e Sinon
 
 🔶 Software architecture: Model, Service and Controller
 

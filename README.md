@@ -47,7 +47,7 @@ And now i'm Learning:
 
 🔶 TypeScript
 
-🔶 Object oriented programming
+🔶 Object oriented programming - SOLID
 
 🔶 MongoDB
 
